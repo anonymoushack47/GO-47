@@ -1,5 +1,5 @@
 #!data/data/com.termux/files/etc
-#Tool By Noob Hackers 
+#Tool By Kuljit Sah
 #ThAnKS For Supporting 
 ################
 cyn='\e[0;36m'
@@ -26,7 +26,7 @@ echo "clear" > null.txt
 cat "null.txt" >> /data/data/com.termux/files/usr/etc/bash.bashrc
 cat "cowtext.txt" >> /data/data/com.termux/files/usr/etc/bash.bashrc
 cat "banner.txt" >> /data/data/com.termux/files/usr/etc/bash.bashrc
-cat "tload.txt"  >> /data/data/com.termux/files/usr/etc/bash.bashrc
+cat "go-47.txt"  >> /data/data/com.termux/files/usr/etc/bash.bashrc
 echo " "
-echo "                   "Ready to go buddy..... | lolcat
+echo "                   "Ready to go open..... | lolcat
 echo " "
