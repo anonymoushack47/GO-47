@@ -1,5 +1,5 @@
-#!Script  author N117R0
-#By noob hackers
+#!Script  author Anonymous Hack47
+#By Kuljit Sah
 #Be a creative person not copy paster
 
 ###################################
