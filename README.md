@@ -28,13 +28,13 @@ pkg install git -y
 git clone https://github.com/anonymoushack47/GO-47
 ```
 ```
-$ ls
+ls
 ```
 ```
-$ cd GO-47
+cd GO-47
 ```
 ```
-$ bash go-47.sh
+bash go-47.sh
 ```
 
 Note:- Don't delete any of the audio files from your sdcard/internal storage or else you cannot feel the terminal startup sound
