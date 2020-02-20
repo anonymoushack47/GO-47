@@ -3,107 +3,6 @@ command_not_found_handle() {
 }
 PS1='\033[1;91mH4CK3R[\033[1;93m\W\033[1;91m]:# \033[1;92m'
 clear
-echo""
-echo""
-echo""
-echo""
-echo""
-echo""
-echo""
-echo""
-echo"" 
-echo""
-echo""
-echo""
-echo""
-echo  ' 
-                     ┬  ┌─┐┌─┐┌┬┐┬┌┐┌┌─┐
-                     │  │ │├─┤ │││││││ ┬
-                     ┴─┘└─┘┴ ┴─┴┘┴┘└┘└─┘
-'
-echo""
-echo""
-echo""
-echo""
-echo "               "/█1%...................../
-sleep 1.0
-clear
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo  ' 
-                     ┬  ┌─┐┌─┐┌┬┐┬┌┐┌┌─┐
-                     │  │ │├─┤ │││││││ ┬
-                     ┴─┘└─┘┴ ┴─┴┘┴┘└┘└─┘
-'
-echo " "
-echo " "
-echo " "
-echo " "
-echo "                "/█4%....................../
-sleep 1.0
-clear
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo '
-
-                     ┬  ┌─┐┌─┐┌┬┐┬┌┐┌┌─┐
-                     │  │ │├─┤ │││││││ ┬
-                     ┴─┘└─┘┴ ┴─┴┘┴┘└┘└─┘
-'
-echo " "
-echo " "
-echo " "
-echo " "
-echo "                "/█8%......................./
-sleep 1.0
-clear
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo '
-                     ┬  ┌─┐┌─┐┌┬┐┬┌┐┌┌─┐
-                     │  │ │├─┤ │││││││ ┬
-                     ┴─┘└─┘┴ ┴─┴┘┴┘└┘└─┘
-'
-echo " "
-echo " "
-echo " "
-echo " "
-echo "                "/██10%....................../
-sleep 1.0
-clear
 echo " "
 echo " "
 echo " "
@@ -126,7 +25,7 @@ echo " "
 echo " "
 echo " "
 echo " "
-echo "                "/██12%....................../
+echo "               "/█1%........................./
 sleep 1.0
 clear
 echo " "
@@ -151,32 +50,7 @@ echo " "
 echo " "
 echo " "
 echo " "
-echo "                "/███15%..................../
-sleep 1.0
-clear
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo ' 
-                     ┬  ┌─┐┌─┐┌┬┐┬┌┐┌┌─┐
-                     │  │ │├─┤ │││││││ ┬
-                     ┴─┘└─┘┴ ┴─┴┘┴┘└┘└─┘
-'
-echo " "
-echo " "
-echo " "
-echo " "
-echo "               "/█████19%..................../
+echo "               "/█████10%..................../
 sleep 1.0
 clear
 echo " "
@@ -201,32 +75,7 @@ echo " "
 echo " "
 echo " "
 echo " "
-echo "               "/██████28%..................../
-sleep 1.0
-clear
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo '
-                     ┬  ┌─┐┌─┐┌┬┐┬┌┐┌┌─┐
-                     │  │ │├─┤ │││││││ ┬
-                     ┴─┘└─┘┴ ┴─┴┘┴┘└┘└─┘
-'
-echo " "
-echo " "
-echo " "
-echo " "
-echo "                "/████████30%................../
+echo "                "/███████20%.................../
 sleep 1.0
 clear
 echo " "
@@ -250,7 +99,7 @@ echo " "
 echo " "
 echo " "
 echo " "
-echo "                "/██████████40%................/
+echo "                "/█████████30%................/
 sleep 1.0
 clear
 echo " "
@@ -300,7 +149,7 @@ echo " "
 echo " "
 echo " "
 echo " "
-echo "                "/████████████████60%........../
+echo "                "/██████████████████70%......../
 sleep 1.0
 clear
 echo " "
@@ -325,7 +174,7 @@ echo " "
 echo " "
 echo " "
 echo " "
-echo "                "/███████████████████88%......./
+echo "                "/█████████████████████90%...../
 sleep 1.0
 clear
 echo " "
