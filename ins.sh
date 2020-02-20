@@ -28,5 +28,5 @@ cat "cowtext.txt" >> /data/data/com.termux/files/usr/etc/bash.bashrc
 cat "banner.txt" >> /data/data/com.termux/files/usr/etc/bash.bashrc
 cat "go-47.txt"  >> /data/data/com.termux/files/usr/etc/bash.bashrc
 echo " "
-echo "                   "Ready to go open..... | lolcat
+echo "                   "Ready to open..... | lolcat
 echo " "
