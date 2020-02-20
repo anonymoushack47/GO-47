@@ -45,7 +45,7 @@ cd $HOME
 
 ls 
 
-cd T-LOAD
+cd GO-47
 
 ls
 
@@ -57,7 +57,7 @@ cd $HOME
 
 ls
 
-cd T-LOAD
+cd GO-47
 
 ls
 
