@@ -1,7 +1,3 @@
-apt-get update -y
-echo " "
-apt-get upgrade -y
-echo " "
 pkg install figlet -y
 echo " "
 pkg install toilet -y
