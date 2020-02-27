@@ -5,17 +5,6 @@ PS1='\033[1;91mH4CK3R[\033[1;93m\W\033[1;91m]:# \033[1;92m'
 clear
 echo " "
 echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
 echo ' 
                      ┬  ┌─┐┌─┐┌┬┐┬┌┐┌┌─┐
                      │  │ │├─┤ │││││││ ┬
@@ -28,17 +17,6 @@ echo " "
 echo "               "/█1%........................./
 sleep 1.0
 clear
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
 echo " "
 echo " "
 echo '
@@ -55,17 +33,6 @@ sleep 1.0
 clear
 echo " "
 echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
 echo '
                      ┬  ┌─┐┌─┐┌┬┐┬┌┐┌┌─┐
                      │  │ │├─┤ │││││││ ┬
@@ -78,16 +45,6 @@ echo " "
 echo "                "/███████20%.................../
 sleep 1.0
 clear
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
 echo " "
 echo " "
 echo '
@@ -104,17 +61,6 @@ sleep 1.0
 clear
 echo " "
 echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
 echo '
                      ┬  ┌─┐┌─┐┌┬┐┬┌┐┌┌─┐
                      │  │ │├─┤ │││││││ ┬
@@ -127,17 +73,6 @@ echo " "
 echo "                "/█████████████50%............./
 sleep 1.0
 clear
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
 echo " "
 echo " "
 echo '
@@ -154,17 +89,6 @@ sleep 1.0
 clear
 echo " "
 echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
 echo '
                      ┬  ┌─┐┌─┐┌┬┐┬┌┐┌┌─┐
                      │  │ │├─┤ │││││││ ┬
@@ -177,43 +101,6 @@ echo " "
 echo "                "/█████████████████████90%...../
 sleep 1.0
 clear
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-clear
-echo ""
-echo ""
-echo ""
-echo ""
-echo ""
-echo ""
-echo ""
-echo ""
-echo ""
-echo ""
-echo ""
 echo ""
 echo ""
 echo '
@@ -227,9 +114,6 @@ echo '
 echo ""
 echo "" 
 echo "               "[██████████████████████ 100%]
-echo ""
-echo ""
-echo ""
 echo ""
 echo ""
 echo ""
