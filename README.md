@@ -39,6 +39,7 @@ bash go-47.sh
 
 Note:- Don't delete any of the audio files from your sdcard/internal storage or else you cannot feel the terminal startup sound
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KfZ9y5kzTZ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Subscribe our channel on youtube
 https://www.youtube.com/channel/UClJL1InBc0Y3s6YYbmSYPFg
      
